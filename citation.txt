@@ -1,0 +1,8 @@
+@article{REPO-206,
+    author = "Li, Chongyi and Guo, Chunle and Ren, Wenqi and Cong, Runmin and Hou, Junhui and Kwong, Sam and Tao, Dacheng",
+    journal = "IEEE Transactions on Image Processing",
+    pages = "4376--4389",
+    title = "{An Underwater Image Enhancement Benchmark Dataset and Beyond}",
+    volume = "29",
+    year = "2019"
+}
